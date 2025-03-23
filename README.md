@@ -1,2 +1,0 @@
-# yawarkhan.com
-My website

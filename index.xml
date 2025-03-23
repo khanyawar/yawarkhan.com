@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yawar Mohammad Khan</title><link>http://www.yawarkhan.com/</link><description>Recent content on Yawar Mohammad Khan</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 22 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://www.yawarkhan.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Personal blog &amp; website using Hugo</title><link>http://www.yawarkhan.com/posts/hugo/</link><pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate><guid>http://www.yawarkhan.com/posts/hugo/</guid><description>&lt;p>For some time now, I’ve been considering starting a blog to share my thoughts and projects with the world. Initially, my personal website was a simple online CV, built with plain HTML and Bootstrap, and hosted on AWS S3.&lt;/p>
+&lt;p>After exploring my options, I began searching for a suitable static site generator that would allow me to publish blog posts using markdown. This approach seemed perfect since I was already familiar with markdown.&lt;/p></description></item><item><title>About</title><link>http://www.yawarkhan.com/about/</link><pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate><guid>http://www.yawarkhan.com/about/</guid><description>&lt;p>Welcome to my personal website, where I plan to share stories, thoughts, lessons, and experiments from my professional and personal experiences.&lt;/p>
+&lt;p>I am a seasoned &lt;strong>engineering leader&lt;/strong> and &lt;strong>software engineer&lt;/strong> with a passion for solving complex problems. My expertise lies in the domain of data engineering &amp;amp; massively distributed systems. I am based out of &lt;strong>Vancouver, Canada&lt;/strong>&lt;/p>
+&lt;p>Apart from technology, my other interests are &lt;em>art&lt;/em>, &lt;em>photography&lt;/em> and &lt;em>motorsports (F1)&lt;/em>.&lt;/p>
+&lt;div>
+&lt;img src="http://www.yawarkhan.com/images/lines.svg" id="hp">
+&lt;/div>
+&lt;br/>
+&lt;br/>
+&lt;br/>
+&lt;hr/>
+&lt;p>&lt;em>Disclaimer: Posts on this blog are my own views, not my employer’s.&lt;/em>&lt;/p></description></item></channel></rss>
